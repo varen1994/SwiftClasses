@@ -10,8 +10,8 @@ So i created this class where i can manage the picker view.
 2. Attach delegate to the Viewcontroller.
 3. Pass value for picker titles in the method 
   ```func setUpWithValuesCell(arrayString:Array<String>,tag:Int)```
-   i.  arrayString -> Values to Set in picker view
-   ii. tag -> give it unique number for each cell and use it on click of Done button for storing it in your View controller class.
+   *  arrayString -> Values to Set in picker view
+   *  tag -> give it unique number for each cell and use it on click of Done button for storing it in your View controller class.
    
    
    
