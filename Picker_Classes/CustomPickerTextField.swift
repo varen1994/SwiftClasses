@@ -13,8 +13,6 @@ import UIKit
 }
 
 
-
-@IBDesignable
 class CustomPickerTextField: UITextField,UIPickerViewDelegate,UIPickerViewDataSource {
     
     @IBOutlet weak var customDelegate:CustomDelegateToSendValue? = nil;
