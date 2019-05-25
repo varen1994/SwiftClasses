@@ -17,6 +17,8 @@ So i created this class where i can manage the picker view.
 Adding activity indicator to the button for showing some activity occuring in the controller.
 I have added some designable elements like CornerRadius, Border Width, Text, activity indicator color.
 User can start activity indicator and stop it using following methods.
+    
+    
     ``` func startAnimating() ```
     ``` func endAnimating() ```
    
