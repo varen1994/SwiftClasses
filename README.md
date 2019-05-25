@@ -27,5 +27,6 @@ User can start activity indicator and stop it using following methods.
 ```
     
 ![IBInspectable](https://i.imgur.com/Lo4rbke.png)
+![IBInspectable](https://i.imgur.com/poYc3AA.gif)
    
    
