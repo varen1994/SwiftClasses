@@ -21,7 +21,11 @@ I have added some designable elements like CornerRadius, Border Width, Text, act
 User can start activity indicator and stop it using following methods.
     
     
-    ``` func startAnimating() ```
-    ``` func endAnimating() ```
+``` 
+    func startAnimating() 
+    func endAnimating()
+```
+    
+![IBInspectable](https://i.imgur.com/Lo4rbke.png)
    
    
