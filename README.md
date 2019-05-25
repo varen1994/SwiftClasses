@@ -13,5 +13,11 @@ So i created this class where i can manage the picker view.
    *  arrayString -> Values to Set in picker view
    *  tag -> give it unique number for each cell and use it on click of Done button for storing it in your View controller class.
    
+## [Custom Button with Activity Indicator](https://github.com/varen1994/SwiftClasses/blob/master/Button_Classes/CustomActivityIndicatorButton.swift)   
+Adding activity indicator to the button for showing some activity occuring in the controller.
+I have added some designable elements like CornerRadius, Border Width, Text, activity indicator color.
+User can start activity indicator and stop it using following methods.
+    ``` func startAnimating() ```
+    ``` func endAnimating() ```
    
    
